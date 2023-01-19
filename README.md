@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Adith-green)]()
 
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm Adith.
+I'm a beginner in the IT field and I am interested in IT and everything in its orbit.
+I recently began to be fascinated by web programming building websites. As this area complements my studies, I am keen to gain more experience in this field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return I would offer my full commitment and friendly addition to your team . I have a wide range of skills in C/C++ and front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/karnan7/count.svg)
