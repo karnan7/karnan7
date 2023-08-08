@@ -7,7 +7,7 @@
 
 I'm Adith.
 I'm a beginner in the IT field and I am interested in IT and everything in its orbit.
-I recently began to be fascinated by web programming building websites. As this area complements my studies, I am keen to gain more experience in this field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return I would offer my full commitment and friendly addition to your team . I have a wide range of skills in front-end development ( ReactJs, NextJs, HTML5, CSS3, Javascript, Redux, Context API, NodeJs, React Hooks, Responsive, UX).
+I recently began to be fascinated by web programming building websites. As this area complements my studies, I am keen to gain more experience in this field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return I would offer my full commitment and friendly addition to your team . I have a wide range of skills in front-end development ( ReactJs, NextJs, HTML5, CSS3, Javascript, REST API, Redux, Context API, NodeJs, React Hooks, Responsive, UX).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/karnan7/count.svg)
