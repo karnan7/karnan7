@@ -13,7 +13,7 @@ I build full-stack web applications and care most about the part where software 
 
 I'm now focused on **Forward Deployed Engineering**: working close to the customer, turning ambiguous problems into shipped solutions fast, building integrations against real-world systems, and iterating with people in the loop.
 
-- 🔭 Currently working on — *<add your current project>*
+- 🔭 Currently working on — [Nalvita](https://github.com/karnan7/nalvita) — a personal health records vault for individuals and families: documents, medications, vitals, allergies & care history in one place
 - 🌱 Learning — LLM application patterns, RAG, and production AI integrations
 - 💬 Ask me about — full-stack TypeScript, API design, or deploying things that don't fall over
 - 📫 Reach me — via [LinkedIn](https://www.linkedin.com/in/adith-p-a-90ab581b7/) or adithkayalad@gmail.com
